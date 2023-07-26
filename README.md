@@ -1,3 +1,3 @@
 # Assignment
 
-Weather application using sprinboot 
+Weather application using springboot 
